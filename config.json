@@ -1,0 +1,9 @@
+{
+	"mailUser":"USERNAME FOR YOUR IMAP SERVER",
+	"mailServer":"IMAP SERVER",
+	"mailPassword":"YOURMAILPASSWORD",
+	"mailServerPort":993,
+	"mailServerTLS":true,
+	"redmineServer":"YOURREDMINEURL.com",
+	"redmineKey":"YOURAPIKEY"
+}

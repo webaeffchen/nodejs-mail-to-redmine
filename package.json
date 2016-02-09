@@ -1,0 +1,12 @@
+{
+  "name": "mailtoredmine",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "redmine": "*",
+    "simple-imap":"*"
+  }
+}
